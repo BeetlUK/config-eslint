@@ -1,6 +1,6 @@
 module.exports = {
   extends: [
-    '@hexdigital/eslint-config-basic',
+    '@beetl/eslint-config-basic',
   ],
   rules: {
     'semi': 'off',

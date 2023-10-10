@@ -7,4 +7,4 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 ### Features
 
-* Add initial packages from Antfu, with Hex overrides on top.
+* Add initial packages from Antfu, with BeetlUK overrides on top.

@@ -1,6 +1,6 @@
-# @hexdigital/eslint-config
+# @beetl/eslint-config
 
-[![npm](https://img.shields.io/npm/v/@hexdigital/eslint-config?color=a1b858&label=)](https://npmjs.com/package/@hexdigital/eslint-config)
+[![npm](https://img.shields.io/npm/v/@beetl/eslint-config?color=a1b858&label=)](https://npmjs.com/package/@beetl/eslint-config)
 
 - Single quotes, no semi
 - Auto fix for formatting (aimed to be used standalone without Prettier)
@@ -14,16 +14,16 @@
 ### Install
 
 ```bash
-pnpm add -D eslint @hexdigital/eslint-config
+pnpm add -D eslint @beetl/eslint-config
 # or
-yarn add -D eslint @hexdigital/eslint-config
+yarn add -D eslint @beetl/eslint-config
 ```
 
 ### Config `.eslintrc`
 
 ```json
 {
-  "extends": "@hexdigital"
+  "extends": "@beetl"
 }
 ```
 
@@ -63,12 +63,12 @@ pnpm run release
 
 ## Check Also
 
-- [hex-digital/eslint-config](https://github.com/hex-digital/eslint-config) - Our ESLint config
-- [hex-digital/starter-nuxt3-base](https://github.com/hex-digital/starter-nuxt3-base) - Our starter template for Vue & Nuxt3
+- [BeetlUK/eslint-config](https://github.com/BeetlUK/eslint-config) - Our ESLint config
+- [BeetlUK/starter-nuxt3-base](https://github.com/BeetlUK/starter-nuxt3-base) - Our starter template for Vue & Nuxt3
 
 ## License
 
-[MIT](./LICENSE) License &copy; 2022-PRESENT [Hex Digital](https://github.com/hex-digital)
+[MIT](./LICENSE) License &copy; 2022-PRESENT [BeetlUK](https://github.com/BeetlUK)
 
 ## Attribution
 
