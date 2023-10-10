@@ -25,5 +25,8 @@ module.exports = {
         ],
       },
     ],
+    'vue/no-dupe-keys': [
+      'off'
+    ],
   },
 };
