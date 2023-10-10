@@ -64,7 +64,6 @@ pnpm run release
 ## Check Also
 
 - [BeetlUK/eslint-config](https://github.com/BeetlUK/eslint-config) - Our ESLint config
-- [BeetlUK/starter-nuxt3-base](https://github.com/BeetlUK/starter-nuxt3-base) - Our starter template for Vue & Nuxt3
 
 ## License
 
